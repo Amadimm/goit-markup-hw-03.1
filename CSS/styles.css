@@ -134,16 +134,19 @@ display: flex;
     height: 600px;
         display: flex;
         flex-direction: column;
-        padding-top: 200px;
+        /* padding-top: 200px; */
         width: 100%;
         justify-content: center;
+        
 }
 .h1 {
     position: absolute;
         width: 696px;
         height: 120px;
         left: 452px;
-        top: 280px;
+        top: 200px;
+        right: 452px;
+        bottom: 280px;
 
     font-style: normal;
         font-weight: 900;
@@ -156,10 +159,14 @@ display: flex;
         text-transform: uppercase;
     
         color: #FFFFFF;
-        margin:0 auto
+        margin:0 auto;
+        
+        /* padding: 200px 452px 280px 452px; */
 }
 
 .h1_btn {
+    top:350px;
+    bottom: 200px;
 font-family: 'Roboto';
 font-style: normal;
     font-weight: 700;
