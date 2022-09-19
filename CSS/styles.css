@@ -412,6 +412,7 @@ font-family: 'Roboto';
 /* =======FOOTER====== */
 
 .navigation_link--secondary {
+    display: flex;
     color: #FFFFFF
 }
 
