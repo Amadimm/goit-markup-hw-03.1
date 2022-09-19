@@ -417,6 +417,11 @@ font-family: 'Roboto';
 
 .footer {
     background: #2F303A;
+    position: absolute;
+        width: 1600px;
+        height: 252px;
+        left: 0px;
+        top: 2097px;
 }
 
 .address_list {
