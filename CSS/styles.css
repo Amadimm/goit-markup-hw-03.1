@@ -416,6 +416,7 @@ font-family: 'Roboto';
 }
 
 .footer {
+    display: flex;
     justify-content: center;
     background: #2F303A;
     position: absolute;
