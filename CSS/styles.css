@@ -427,6 +427,11 @@ font-family: 'Roboto';
         width: 100%;
 }
 
+.address {
+    padding-top: 111px;
+    padding-left: 215px;
+}
+
 .address_list {
     list-style: none;
 }
