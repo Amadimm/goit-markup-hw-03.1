@@ -435,6 +435,7 @@ font-family: 'Roboto';
 
 .address_list {
     list-style: none;
+    gap: 9px;
 }
 
 .address_p {
