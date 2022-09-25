@@ -415,6 +415,7 @@ font-family: 'Roboto';
     display: flex;
     color: #FFFFFF;
     padding: 60px 1240px 20px 215px;
+    margin: 0%;
     
 }
 
@@ -433,7 +434,7 @@ font-family: 'Roboto';
 .address {
     
     margin: 0;
-    padding-top: 20px ;
+   
     padding-left: 215px;
     
 }
