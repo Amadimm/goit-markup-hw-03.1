@@ -271,6 +271,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     
         background: #F5F4FA;
         justify-content: center;
+        padding-bottom: 94px;
 }
 
 .heading_team {
@@ -346,8 +347,9 @@ display: flex;
     display: flex;
    
     margin: 0;
-    padding-top: 100px;
+    padding-top: 94px;
     padding-left: 0px;
+    padding-bottom: 50px;
     gap: 8px;
 }
 
@@ -397,17 +399,20 @@ font-family: 'Roboto';
     flex-wrap: wrap;
     gap:30px;
     margin: 0;
+    list-style: none;
+    padding: 0;
+    padding-bottom: 94px;
 
  
 }
 
-.img_list_item {
-   
-    height: 370px;
-width: 294px;
+.img_list_item_1 {
+justify-content: center;
+    height: 404px;
+width: 370px;
     background: #FFFFFF;
         border: 1px solid #EEEEEE;
-        justify-content: center;
+        
        
 }
 
@@ -422,8 +427,8 @@ width: 294px;
         letter-spacing: 0.06em;
     
         color: #212121;
-        padding-top: 314px;
-        padding-left: 25px;
+        padding-top: 20px;
+        padding-left: 24px;
         margin: 0;
         
 
@@ -438,6 +443,9 @@ width: 294px;
         /* identical to box height, or 188% */
     
         letter-spacing: 0.03em;
+        padding-top: 4px;
+        padding-left: 24px;
+        margin: 0;
     
         color: #757575;
 }
@@ -464,8 +472,9 @@ width: 294px;
     position: absolute;
         width: 1600px;
         height: 252px;
+        top: 1628px;
         left: 0px;
-        top: 2097px;
+        /* top: 2097px; */
         width: 100%;
 }
 
