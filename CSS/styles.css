@@ -396,21 +396,23 @@ font-family: 'Roboto';
     justify-content: center;
     flex-wrap: wrap;
     gap:30px;
+    margin: 0;
 
  
 }
 
 .img_list_item {
-    display: flex;
+   
     height: 370px;
 width: 294px;
     background: #FFFFFF;
         border: 1px solid #EEEEEE;
         justify-content: center;
+       
 }
 
 .img_list_item_h5 {
-    display: flex;
+    
         font-style: normal;
         font-weight: 700;
         font-size: 18px;
@@ -421,8 +423,10 @@ width: 294px;
     
         color: #212121;
         padding-top: 314px;
+        padding-left: 25px;
         margin: 0;
-        justify-content: center;
+        
+
 }
 
 .img_list_item_p {
