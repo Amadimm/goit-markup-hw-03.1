@@ -415,7 +415,7 @@ font-family: 'Roboto';
     display: flex;
     color: #FFFFFF;
     padding: 60px 1240px 20px 215px;
-    margin: 0%;
+    margin: 0;
     
 }
 
@@ -429,6 +429,10 @@ font-family: 'Roboto';
         left: 0px;
         top: 2097px;
         width: 100%;
+}
+
+.h3_footer {
+    margin: 0;
 }
 
 .address {
@@ -457,6 +461,7 @@ font-family: 'Roboto';
         letter-spacing: 0.03em;
     
         color: #FFFFFF;
+        margin: 0;
 }
 
 .address_link {
