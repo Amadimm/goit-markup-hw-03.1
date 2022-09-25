@@ -109,6 +109,7 @@ display: flex;
         margin-left: auto;
         gap: 50px;
         list-style: none;
+        
 }
 .contacts_link {
 
@@ -462,6 +463,11 @@ font-family: 'Roboto';
     
         color: #FFFFFF;
         margin: 0;
+        padding-bottom: 9px;
+}
+
+.address_list_item {
+    padding-bottom: 9px;
 }
 
 .address_link {
