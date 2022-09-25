@@ -413,7 +413,13 @@ font-family: 'Roboto';
 
 .navigation_link--secondary {
     display: flex;
-    color: #FFFFFF
+    color: #FFFFFF;
+    position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 215px;
+        top: 2157px;
+    
 }
 
 .footer {
