@@ -433,6 +433,9 @@ font-family: 'Roboto';
 .address {
     
     margin: 0;
+    padding-top: 20px ;
+    padding-left: 215px;
+    
 }
 
 .address_list {
