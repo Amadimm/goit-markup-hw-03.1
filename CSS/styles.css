@@ -106,6 +106,7 @@ display: flex;
     color: var(--main-color)
 }
 
+
 .contacts_list {
    
     display: flex;
@@ -114,6 +115,7 @@ display: flex;
         list-style: none;
         margin: 0;
         padding: 0px;
+       padding-left: 300px;
 }
 .contacts_link {
 
@@ -247,6 +249,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     
         color: #212121;
         padding-bottom: 50px;
+        margin: 0;
+        padding-top: 94px;
 }
 
 .img_list1 {
@@ -254,7 +258,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     display: flex;
     justify-content: center;
     
-        padding-bottom: 50px;
+        padding-bottom: 94px;
         margin: 0;
     
 }
@@ -304,7 +308,7 @@ font-style: normal;
     padding-bottom: 50px;
 
     margin: 0;
-    padding-top:90px ;
+    padding-top:94px ;
 }
 .team_list_item {
     height: 368px;
@@ -386,7 +390,7 @@ font-family: 'Roboto';
         color: #212121;
 
         background: #F5F4FA;
-            border-radius: 4px;
+           
             cursor: pointer;
 }
 
