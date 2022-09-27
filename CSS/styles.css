@@ -22,6 +22,7 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    
 }
 
 .section {
@@ -136,18 +137,21 @@ display: flex;
         display: flex;
         flex-direction: column;
         /* padding-top: 200px; */
-        width: 100%;
+        /* width: 1600px ; */
         justify-content: center;
+        align-items: center;
+        
+        
         
 }
 .h1 {
-    position: absolute;
+    
         width: 696px;
         height: 120px;
-        left: 452px;
+        /* left: 452px;
         top: 200px;
         right: 452px;
-        bottom: 280px;
+        bottom: 280px; */
 
     font-style: normal;
         font-weight: 900;
@@ -162,18 +166,20 @@ display: flex;
         color: #FFFFFF;
         margin:0 auto;
         
-        /* padding: 200px 452px 280px 452px; */
+        padding-bottom: 30px;
 }
 
 .h1_btn {
-    top:350px;
-    bottom: 200px;
+    display: flex;
+    /* top:350px;
+    bottom: 200px; */
 font-family: 'Roboto';
 font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 1.875;
     /* identical to box height, or 188% */
+    
     
 
  
